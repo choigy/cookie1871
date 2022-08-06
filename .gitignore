@@ -1,0 +1,8 @@
+.env
+Pipfile
+Pipfile.lock
+README.md
+db.sqlite3
+goorm.manifest
+
+config/__init__
